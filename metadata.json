@@ -1,0 +1,6 @@
+{
+  "name": "Assam Kitchen",
+  "description": "Authentic Assamese culinary heritage and recipes curated with Chef Subhasish Phukan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
